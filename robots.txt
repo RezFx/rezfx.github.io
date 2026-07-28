@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.io/lilyspuff.github.io/sitemap.xml
-Sitemap: https://github.io/AudioYlem/sitemap.xml
-Sitemap: https://github.io/renzofanutti.github.io/sitemap.xml
+Sitemap: https://rezfx.github.io/lilyspuff.github.io/sitemap.xml
+Sitemap: https://rezfx.github.io/AudioYlem/sitemap.xml
+Sitemap: https://rezfx.github.io/renzofanutti.github.io/sitemap.xml
